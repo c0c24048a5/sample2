@@ -10,7 +10,7 @@
 ---
 
 ### 📷 フォト / 公開写真
-<img src="docx/VRChat_2026-06-17_19-13-43.574_2560x1440.jpg" alt="A girl holding a stuffed animal" width="600" height="338">
+<img src="docx/VRChat_2026-06-17_19-13-43.574_2560x1440.png" alt="A girl holding a stuffed animal" width="600" height="338">
 
 ---
 
@@ -30,6 +30,13 @@
 現在はまだ学び始めたばかりで知識も浅い段階ですが、日々のゲームプレイを通じて**XR技術が持つ無限の可能性**を肌で感じています。
 
 今後はコンピュータサイエンスの基盤をしっかりと学びつつ、知見を深め、将来的にXRのエコシステムに貢献できるよう日々精進していきます！
+
+---
+
+### 🎵 好きな音楽
+作業中などによく聴いているお気に入りの動画です！
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y732jibDixc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -75,90 +82,10 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+iframe {
+  display: block;
+  margin: 16px 0;
+  max-width: 100%;
+}
 </style>
-
-
-
-## Youtube Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/STeofHExMrc"
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-## Images
-![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-# h1 Heading
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
-## Emphasis
-**This is bold text**
-__This is bold text__
-*This is italic text*
-_This is italic text_
-~~Strikethrough~~
-## Blockquotes
-> Blockquotes can also be nested...
->> ...by using additional greater-than signs right next to each other...
-> > > ...or with spaces between arrows.
-## Lists
-Unordered
-+ Create a list by starting a line with `+`, `-`, or `*`
-+ Sub-lists are made by indenting 2 spaces:
- - Marker character change forces new list start:
- * Ac tristique libero volutpat at
- + Facilisis in pretium nisl aliquet
- - Nulla volutpat aliquam velit
-+ Very easy!
-Ordered
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-1. You can use sequential numbers...
-1. ...or keep all the numbers as `1.`
-Start numbering with offset:
-57. foo
-1. bar
-## Code
-Inline `code`
-Indented code
-// Some comments
- line 1 of code
- line 2 of code
- line 3 of code
-Block code "fences"
-```
-Sample text here...
-```
-Syntax highlighting
-``` js
-var foo = function (bar) {
- return bar++;
-};
-console.log(foo(5));
-```
-## Tables
-| Option | Description |
-| ------ | ----------- |
-| data | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext | extension to be used for dest files. |
-Right aligned columns
-| Option | Description |
-| ------:| -----------:|
-| data | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext | extension to be used for dest files. |
-## Links
-[link text](http://dev.nodeca.com)
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
-Footnote 1 link[^first].
-Footnote 2 link[^second].
-Inline footnote^[Text of inline footnote] definition.
-Duplicated footnote reference[^second].
-[^first]: Footnote **can have markup**
- and multiple paragraphs.
-[^second]: Footnote text.
