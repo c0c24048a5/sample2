@@ -1,3 +1,19 @@
+<style>
+ body {
+ background: lightcyan;
+ width: 800px;
+ margin: auto;
+ }
+ h1 {
+ color: maroon;
+ text-align: center;
+ }
+ p {
+ color: gray;
+ border: 1px solid gray;
+ padding: 10px;
+ }
+</style>
 ## Youtube Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/STeofHExMrc"
 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
