@@ -10,7 +10,7 @@
 ---
 
 ### 📷 フォト / 公開写真
-<img src="VRChat_2026-06-17_19-13-43.574_2560x1440.png" alt="A girl holding a stuffed animal" width="600", height="337.5">
+<img src="VRChat_2026-06-17_19-13-43.574_2560x1440.jpg" alt="A girl holding a stuffed animal" width="600" height="338">
 
 ---
 
